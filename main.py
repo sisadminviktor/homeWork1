@@ -8,7 +8,7 @@
 # totalList2 = (resultList2)
 
 # print(f'средний бал первого класса', {totalList1})
-# print(f'средний бал первого второго класса', {totalList2})
+# print(f'средний бал второго класса', {totalList2})
 
 
 #2.43
